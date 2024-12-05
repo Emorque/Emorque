@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 <!-- Actual text -->
 ## ⚡ Technical Skills
 - **Languages**: Python, JavaScript, Java, C++, HTML, CSS
-- **Frameworks** & Tools: Cloud Firestore (GCP), Git, noSQL, React.js, RESTful APIs, Tailwind CSS, TypeScript
+- **Frameworks & Tools**: Cloud Firestore (GCP), Git, noSQL, React.js, RESTful APIs, Tailwind CSS, TypeScript
 
 ## 👯 Community 
-- **CodePath**: Having been a part of this community for over a year now, CodePath is an amazing one. From starting as a student, to now mentoring and helping student software engineers, I'm always looking to pay it forward to this wonderful community
+- **CodePath**: Having been a part of this community for over a year now, CodePath is an amazing. From starting as a student, to now mentoring and helping student software engineers, I'm always looking to pay it forward to this wonderful community
 - **NYC**: I am very fortunate to call this city my home. It is bustling with tech conferences and meetups, so if you are in the area, there is a chance we'll cross paths
 
 ## 🌱 Goals
-- **Career Goals**:My goal is to have an established role in the software engineering industry, particularly in one that allows me to work on meaningful and impactful projects
+- **Career Goals**: My goal is to have an established role in the software engineering industry, particularly in one that allows me to work on meaningful and impactful projects
 - **Learning**: I am dedicated to my growth, by continually learning and retaining knowledge
 
 
